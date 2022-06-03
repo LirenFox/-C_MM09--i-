@@ -10,7 +10,7 @@ int main()
     if(n>31)
         cout << "Value of more than 31" << endl;
     else{
-        //1¥ª²¾n¦¸
+        //1å·¦ç§»næ¬¡
         for(int i=0; i<n; i++){
             ans = ans << 1;
         }
